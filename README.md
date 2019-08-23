@@ -10,7 +10,7 @@ Our proposed method learns the reduced dimensional dictionary and coeﬃcient ma
 
 The most important parameter, which denotes the number of the dicioanry atoms, is r. 
 
-The experiment results on three benchmark datasets are below.
+The experiment results on three benchmark datasets are below. (*mean±std*)
 ![image](https://user-images.githubusercontent.com/18275012/61845041-a2dde500-aedc-11e9-97bb-8490ec7fea31.png)
 
 
